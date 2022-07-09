@@ -10,5 +10,6 @@ setup(
         author_email='peterjschroeder@gmail.com', 
         url='https://github.com/peterjschroeder/gifin',
         scripts=['gifin'],
+        install_requires=['term-image @ git+https://github.com/AnonymouX47/term-image.git']
 )
 
