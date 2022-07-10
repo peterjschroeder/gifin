@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(
-        name='emojin', 
+        name='gifin', 
         version='0.1', 
         description='gif selector that outputs to WeeChat.', 
         author='Peter J. Schroeder', 
